@@ -17,13 +17,13 @@ async function handleRequest(request) {
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="It is a Zee5 Online premium streamer with all features">
-    <meta name="author" content="Avishkar Patil">
-    <meta name="copyright" content="This Created by Avishkar Patil">
+    <meta name="author" content="Zee5tg">
+    <meta name="copyright" content="This is Created by Zee5tg">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.png">
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
 
-  <title>Avi Patil | ZEE5 Online Player and Downloader !!</title>
+  <title>Zee5tg | ZEE5 Online Player and Downloader !!</title>
   <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/z5style.css">
@@ -36,15 +36,15 @@ body{ background-color:#202020;}
 </head>
 <body>
 
-  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://z5.movhdapp.ml/">ZEE5 HLS Streamer </a></h1>
+  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://zee5tg.kinarse.workers.dev/">ZEE5 HLS Streamer </a></h1>
   
 <br><br><h3 style="text-align: center; color: #FFB200; font-family: 'Balsamiq Sans', cursive; font-size: 17px;">👇 Enter Your ZEE5 URL or VIDEO ID Below 👇 <br>And Click On STREAM</h3><br><br><br>
 
-  <div><form method="get"  action="https://z5.movhdapp.ml" _lpchecked="1">
+  <div><form method="get"  action="https://zee5tg.kinarse.workers.dev" _lpchecked="1">
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
-<a href="https://zee5.com/"> <img class="zee5" src="https://www.zee5.com/images/ZEE5_logo.png" title="Go To ZEE5 Site"></a>
+<a href="https://zee5.com/"> <img class="zee5" src="https://www.zee5.com/images/ZEE5_logo.svg" title="Go To ZEE5 Site"></a>
 </div>
 
 <button  class="button" type="submit" value="" title="Stream And Enjoy !!">
@@ -56,7 +56,7 @@ Stream
 
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Avishkar Patil</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://t.me/zee5tg/">© 2021 Zee5tg</a></span>
             </div>
         </footer>
 </body>
@@ -95,13 +95,13 @@ Stream
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="It is a Zee5 Online premium streamer with all features">
-    <meta name="author" content="Avishkar Patil">
-    <meta name="copyright" content="This Created by Avishkar Patil">
+    <meta name="author" content="Zee5tg">
+    <meta name="copyright" content="This is Created by Zee5tg">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.png">
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
 
-  <title>Not Found | Avi Patil | ZEE5 Online Player and Downloader !!</title>
+  <title>Not Found | Zee5tg | ZEE5 Online Player and Downloader !!</title>
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/z5style.css">
   <link rel="stylesheet" href="https://avipatilpro.github.io/host/zstyle.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -113,7 +113,7 @@ body{ background-color:#202020;}
 
 </head>
 <body>
-  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://z5.movhdapp.ml/">ZEE5 HLS Streamer </a></h1>
+  <h1 style="color:orange; text-align:center; cursor: pointer;"><a href="https://zee5tg.kinarse.workers.dev/">ZEE5 HLS Streamer </a></h1>
   
 <br><br>
 <p style="color:#0EEEBB; text-align:center;font-family: 'Corben', cursive; font-size: 19px;">⚠️ ERROR NOT FOUND ⚠️</p>
@@ -121,11 +121,11 @@ body{ background-color:#202020;}
 
 <br><br><br>
 
-  <div><form method="get"  action="https://z5.movhdapp.ml" _lpchecked="1">
+  <div><form method="get"  action="https://zee5tg.kinarse.workers.dev" _lpchecked="1">
   <center>
  <div class="bar">
 <input type="search" class="searchbar" name="url" value="" placeholder="Enter ZEE5 URL or VIDEO ID" autocomplete="off">
-<a href="https://zee5.com/"> <img class="zee5" src="https://www.zee5.com/images/ZEE5_logo.png" title="Go To ZEE5 Site"></a>
+<a href="https://zee5.com/"> <img class="zee5" src="https://www.zee5.com/images/ZEE5_logo.svg" title="Go To ZEE5 Site"></a>
 </div>
 
 <button  class="button" type="submit" value="" title="Stream And Enjoy !!">
@@ -136,7 +136,7 @@ Stream
 
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Avishkar Patil</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://t.me/zee5tg/">© 2021 Zee5tg</a></span>
             </div>
         </footer>
 </body>
@@ -149,7 +149,7 @@ Stream
                     "Content-Type": "text/html",
                     "Cache-Control": "no-cache, no-store, must-revalidate",
                     "Access-Control-Allow-Origin": "*",
-                    "Made-By": "https://github.com/avipatilpro/ZEE5/"
+                    "Made-By": "https://github.com/kinseria/ZEE5/"
                 })
             })
         } else {
@@ -164,7 +164,7 @@ Stream
                     "Content-Type": "text/html",
                     "Cache-Control": "no-cache, no-store, must-revalidate",
                     "Access-Control-Allow-Origin": "*",
-                    "Made-By": "https://github.com/avipatilpro/ZEE5/"
+                    "Made-By": "https://github.com/kinseria/ZEE5/"
                 })
             })
         }
@@ -187,11 +187,11 @@ async function template(title, thumb, hls, vtt_thumbnail_url) {
     return `<html>
 
 <head>
-  <title>${title} | Avishkar Patil</title>
+  <title>${title} | Zee5tg</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-  <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
   <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
   <link href="https://fonts.googleapis.com/css?family=Poppins|Quattrocento+Sans" rel="stylesheet"/>
   <script src="https://cdn.plyr.io/3.6.3/plyr.js"></script>
@@ -287,7 +287,7 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('https://telegra.ph/file/22da4d29204c748a526a4.png') no-repeat;
+        background: url('https://www.zee5.com/images/ZEE5_logo.svg') no-repeat;
         background-size: 35px auto, auto;
     }
 
@@ -296,14 +296,12 @@ html {
 <body>
   <div id="loading" class="loading">
 <div class="loading-text">
-    <span class="loading-text-words">A</span>
-    <span class="loading-text-words">V</span>
-    <span class="loading-text-words">I</span>
-    <span class="loading-text-words">S</span>
-    <span class="loading-text-words">H</span>
-    <span class="loading-text-words">K</span>
-    <span class="loading-text-words">A</span>
-    <span class="loading-text-words">R</span>
+    <span class="loading-text-words">Z</span>
+    <span class="loading-text-words">E</span>
+    <span class="loading-text-words">E</span>
+    <span class="loading-text-words">5</span>
+    <span class="loading-text-words">T</span>
+    <span class="loading-text-words">G</span>
 </div>
 </div>
 
